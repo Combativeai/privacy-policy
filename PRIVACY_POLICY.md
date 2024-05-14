@@ -1,4 +1,4 @@
-Welcome to Combative! We prioritize your privacy and have outlined our practices for managing your personal data in this Privacy Policy.
+  Welcome to Combative! We prioritize your privacy and have outlined our practices for managing your personal data in this Privacy Policy.
 We collect various types of information including personal identification information you provide, usage data detailing your interactions with our app,
 and device information. This data is used to provide and enhance our services, improve your app experience, and communicate with you. 
 We may share information with third-party service providers and to comply with legal obligations. Under GDPR, you have rights to access, update,
